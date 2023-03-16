@@ -5,7 +5,7 @@ Python script for submitting jobs via condor on lxplus.
 ## Short Notice
 
 Credits to the original author: Philipp Windischhofer<br>
-Link to his [Github](https://github.com/philippwindischhofer)
+Link to his [Github](https://github.com/philippwindischhofer)<br>
 I just extended the code a bit and found it useful to make this public since it is an easy to use tool to get condor jobs work.<br>
 
 
